@@ -1,0 +1,4 @@
+echo  0 | sudo tee /proc/sys/kernel/randomize_va_space
+# insert fs module
+sudo sync; echo 3 | sudo tee /proc/sys/vm/drop_caches
+sudo filebench -f name.f

@@ -1,0 +1,1 @@
+savedcmd_/home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/modules.order := {   echo /home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/rb_test.o; :; } > /home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/modules.order

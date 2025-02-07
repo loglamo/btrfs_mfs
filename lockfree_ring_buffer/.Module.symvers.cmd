@@ -1,0 +1,1 @@
+savedcmd_/home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/Module.symvers -T /home/syslab/workspace_la/dfspace-btrfs-sys5/lockfree_ring_buffer/modules.order -i Module.symvers -e 
